@@ -1,0 +1,29 @@
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 60, Egység csomag: 25 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 50, Egység csomag: 25 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 50, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 40, Egység csomag: 25 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 40, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 35, Egység csomag: 25 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 35, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 30, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 30, Egység csomag: 25 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 30, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 25, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 25, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 20, Egység csomag: 50 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 16, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 16, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 16, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 14, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 14, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 12, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 12, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 12, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 10, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 10, Egység csomag: 200 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 10, Egység csomag: 100 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 8, Egység csomag: 500 db, Darabszám: 1, Készleten: Nem
+DIN: DIN964A, Megnevezés: LencsefejÅ± egyeneshornyÃº csavar, Anyag: Sav Ã©s rozsdamentes, d1: 0, L: 6, Egység csomag: 500 db, Darabszám: 1, Készleten: Nem
+DIN: , Megnevezés: , Anyag: , d1: 0, L: 0, Egység csomag: , Darabszám: 1, Készleten: Nem
+
+Készleten lévõ csavarok:
